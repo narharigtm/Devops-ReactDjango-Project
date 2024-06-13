@@ -7,3 +7,7 @@
 ![prometheus](https://github.com/narharigtm/Devops-ReactDjango-Project/assets/161860294/20cd8fa1-73d1-4bd0-a464-e972d9ba3e41)
 ![grafana](https://github.com/narharigtm/Devops-ReactDjango-Project/assets/161860294/fc0037bb-270b-435b-bab8-a469b51571d4)
 ![pushing into github](https://github.com/narharigtm/Devops-ReactDjango-Project/assets/161860294/749c3565-5dd5-42df-876f-eac06e321cbd)
+
+
+![jenkins](https://github.com/narharigtm/Devops-ReactDjango-Project/assets/161860294/c576bb3a-94ec-4490-9db3-24c51eee94a3)
+![jenkins_2](https://github.com/narharigtm/Devops-ReactDjango-Project/assets/161860294/8a12181d-b792-4120-80bd-df090ed4eae1)
