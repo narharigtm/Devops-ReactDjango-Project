@@ -1,56 +1,9 @@
-<div align="center">
-<img width="50%" src="http://i3.ytimg.com/vi/tYKRAXIio28/maxresdefault.jpg"/>
 
-# Django & React Notes App
-</div>
+![Backend_django](https://github.com/narharigtm/Devops-ReactDjango-Project/assets/161860294/24632853-b4a9-4ad0-b4d7-7ce57a3c1038)
+![compose_up](https://github.com/narharigtm/Devops-ReactDjango-Project/assets/161860294/c4c5a0e3-b970-465e-a40f-3bca1b9f1f46)
+![prometheus yml](https://github.com/narharigtm/Devops-ReactDjango-Project/assets/161860294/684d54eb-5e01-46ac-a400-b3d807ee8339)
 
-### Cloning the repository
-
---> Clone the repository using the command below :
-```bash
-git clone https://github.com/divanov11/Django-React-NotesApp.git
-
-```
-
---> Move into the directory where we have the project files : 
-```bash
-cd Django-React-NotesApp
-
-```
-
---> Create a virtual environment :
-```bash
-# If you are on Windows
-virtualenv env
-# If you are on Linux or Mac
-python -m venv env
-```
-
---> Activate the virtual environment :
-```bash
-# If you are on Windows
-.\env\Scripts\activate
-# If you are on Linux or Mac
-source env/bin/activate
-```
-
-#
-
-### Running the App
-
---> To run the Notes App, we use :
-```bash
-python manage.py runserver
-```
-
-> ⚠ Then, the development server will be started at http://127.0.0.1:8000/
-
-#
-
-### App Preview :
-
-<div align="center">
-<img width="50%" src="https://www.linkpicture.com/q/Notes.png"/>
-</div>
-
-#
+![docker_composefile](https://github.com/narharigtm/Devops-ReactDjango-Project/assets/161860294/f5326131-90d4-45f7-9f36-d4c2e50480e4)
+![prometheus](https://github.com/narharigtm/Devops-ReactDjango-Project/assets/161860294/20cd8fa1-73d1-4bd0-a464-e972d9ba3e41)
+![grafana](https://github.com/narharigtm/Devops-ReactDjango-Project/assets/161860294/fc0037bb-270b-435b-bab8-a469b51571d4)
+![pushing into github](https://github.com/narharigtm/Devops-ReactDjango-Project/assets/161860294/749c3565-5dd5-42df-876f-eac06e321cbd)
